@@ -1,2 +1,5 @@
 {
+      // Controls the font size in pixels.
+  "editor.fontSize": 24,
+  "editor.tabSize": 2,
 }
